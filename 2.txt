@@ -1,0 +1,12 @@
+pip install requests 
+pip install colorama
+pip install telegram
+pip install bs64
+
+python-telegram-bot
+
+# Keyboard Input framework
+pynput
+
+# Screenshot framework
+mss
